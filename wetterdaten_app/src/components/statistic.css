@@ -1,0 +1,13 @@
+.container{
+    margin: 200px;
+    display: flex;
+    justify-content: center;
+}
+.statistic_div{
+    border: 1px solid grey;
+    width: 100px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
